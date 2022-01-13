@@ -4,3 +4,7 @@
 
 ## ArcGIS Notebooks Basics
 * Data
+    * [NotebooksBasics.zip](https://github.com/reclGIS/arcGISPro/files/7849137/NotebooksBasics.zip)
+    * [ArcGIS API for Python](https://developers.arcgis.com/python/sample-notebooks/)
+        * [Analyzing New York City taxi data using big data tools](https://developers.arcgis.com/python/sample-notebooks/analyze-new-york-city-taxi-data/)
+
